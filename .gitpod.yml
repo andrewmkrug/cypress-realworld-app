@@ -4,3 +4,9 @@ image:
 tasks:
   - init: yarn install && yarn run build
     command: yarn run start
+vscode:
+  extensions:
+    - hbenl.vscode-test-explorer@2.19.1:GtY0wSp3pjUeyKXi8mFMnQ==
+    - hbenl.vscode-mocha-test-adapter@2.7.0:2X6Piv/MSAUPOWVcfOncjA==
+    - hbenl.vscode-jasmine-test-adapter@1.7.0:vX9D/hi5OfRxh6xT+Z+3PQ==
+    - Shelex.vscode-cy-helper@0.6.4:Dg1qJSrvsOxHdmtyhfwryg==
