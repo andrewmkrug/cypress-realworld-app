@@ -1,4 +1,4 @@
-FROM cypress/browsers
+FROM cypress/browsers:node12.18.0-chrome83-ff77
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
